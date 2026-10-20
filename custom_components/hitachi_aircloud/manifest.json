@@ -1,0 +1,14 @@
+{
+  "domain": "hitachi_aircloud",
+  "name": "Hitachi airCloud Gateway",
+  "codeowners": [
+    "@BRPRIM3"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/BRPRIM3/ha-hitachi-aircloud",
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/BRPRIM3/ha-hitachi-aircloud/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}

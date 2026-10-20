@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Hitachi airCloud Gateway",
+        "description": "Dados de acesso da página local do gateway.",
+        "data": {
+          "host": "IP do gateway",
+          "username": "Usuário",
+          "password": "Senha"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Não foi possível conectar ao gateway.",
+      "invalid_auth": "Usuário ou senha incorretos.",
+      "no_units": "Nenhuma unidade interna encontrada.",
+      "unknown": "Erro inesperado."
+    },
+    "abort": {
+      "already_configured": "Este gateway já está configurado."
+    }
+  }
+}
